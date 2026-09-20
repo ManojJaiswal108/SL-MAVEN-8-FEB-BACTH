@@ -25,7 +25,7 @@ jobs:
     - name: Build and Push 
       uses: mr-smithers-excellent/docker-build-push@v6
       with:
-        image: hkshitesh/democicd8feb
+        image: 101202303/my_demo_image
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
