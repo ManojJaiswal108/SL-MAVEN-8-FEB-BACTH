@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "hkshitesh/cicdimg"
+        IMAGE_NAME = "manojjaiswal108/sl_mydemo_image"
     }
 
     stages {
