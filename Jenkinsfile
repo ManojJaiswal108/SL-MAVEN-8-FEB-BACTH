@@ -11,11 +11,11 @@ pipeline {
 
     stages {
 
-        stage('Clone Repository by Hitesh') {
-            steps {
-                git 'https://github.com/ManojJaiswal108/SL-MAVEN-8-FEB-BACTH.git'
-            }
-        }
+        // stage('Clone Repository by Hitesh') {
+        //     steps {
+        //         git 'https://github.com/ManojJaiswal108/SL-MAVEN-8-FEB-BACTH.git'
+        //     }
+        // }
 
         stage('Build Maven Project') {
             steps {
