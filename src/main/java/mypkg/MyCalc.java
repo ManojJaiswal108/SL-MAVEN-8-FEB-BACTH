@@ -19,11 +19,11 @@ public class MyCalc {
 	}
 	public void show()
 	{
-		System.out.println("Hello Jenkins from SL 1 NOV BATCH! Thanks GitHub Action Thanks Subghsish");
+		System.out.println("Hello Jenkins from SL 1 MJ NOV BATCH! Thanks GitHub Action Thanks Subghsish");
 	}
 	public void greeting()
 	{
-		System.out.println("Hello SL Thanks Hitesh");
+		System.out.println("Hello SL Thanks Manoj");
 	}
 
 	public static void main(String[] args) {
