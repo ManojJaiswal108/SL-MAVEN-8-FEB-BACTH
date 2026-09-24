@@ -13,7 +13,7 @@ pipeline {
 
         stage('Clone Repository by Hitesh') {
             steps {
-                git 'https://github.com/hkshitesh/SL-MAVEN-8-FEB-BACTH.git'
+                git 'https://github.com/ManojJaiswal108/SL-MAVEN-8-FEB-BACTH.git'
             }
         }
 
